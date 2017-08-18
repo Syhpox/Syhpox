@@ -1,4 +1,4 @@
-[github markdown语法](https://guides.github.com/features/mastering-markdown/ "")
+[github markdown语法](https://guides.github.com/features/mastering-markdown/ "test")
 
 [外链markdown语法](http://www.cnblogs.com/yabin/p/6366151.html "markdown")
 
