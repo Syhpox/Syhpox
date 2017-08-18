@@ -1,3 +1,7 @@
+[github markdown语法](https://guides.github.com/features/mastering-markdown/ "")
+
+[外链markdown语法](http://www.cnblogs.com/yabin/p/6366151.html "markdown")
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Syhpox/Syhpox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
