@@ -6,7 +6,9 @@
 
 小小程序员，开心就好，乱七八糟
 
-[本地测试网页](/local/index.html "测试使用")
+[html标签复习](/local/html_study.html "html标签")
+
+[css学习](/local/css_study.html "css")
 
 
 
