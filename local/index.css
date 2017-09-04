@@ -1,11 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>主页</title>
-		<meta charset="utf-8">
-		<!-- <meta http-equiv="refresh" content="60; URL=https://www.baidu.com"> -->
-		<style type="text/css">
-		body{margin: 0px;padding: 0px;background: white;}
+	body{margin: 0px;padding: 0px;background: white;}
 
 			#main_left {
 				width:300px;
@@ -69,30 +62,3 @@
 				float:right;
 				background: white;
 			}
-
-		</style>
-		<script src="../script/index.js">
-		</script>
-	</heada>
-	<body>
-		<div id="main_left">
-			<img id="main_left_bg" src="../img/bg.png">
-		</div>
-		<div id="main_right">
-			main
-			<div id="top">
-				home
-			</div>
-			<div id="middle">
-				main
-			</div>
-			<div id="bottom">
-				bottom
-			</div>
-			<div id="hover">
-				<input type="button" value="X" onclick="hideHover()" />
-				悬浮底部
-			</div>
-		</div>
-	</body>
-</html>
