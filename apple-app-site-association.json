@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "W3CWJY6QUS.com.fcbox.hiveconsumer",
-            "paths": ["/app/*"]
+            "paths": ["/note/*"]
             }
             ]
     }
